@@ -19,6 +19,7 @@ a {
 	font-size: 18px;
 	margin: 0 20px;
 	border-bottom: 2px solid transparent;
+	text-decoration:none;
 }
 
 h2 {
@@ -93,4 +94,12 @@ font-size: 0;
 
 a:hover {
 	border-color: #FFFFFF;
+}
+
+.contact {
+	font-family: Raleway;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
 }
